@@ -25,7 +25,7 @@ const common = merge([
         ]
     },
     pug(),
-    babel()
+    //babel()
 ]);
 
 
